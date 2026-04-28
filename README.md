@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-# 👋 Hola, soy Ramiro
+### 👋 Hola, soy Ramiro
 
 Soy desarrollador .NET enfocado en backend y aplicaciones web.  
 Vengo trabajando en proyectos propios como sistemas de stock, ventas y algunas webs más visuales.
@@ -30,4 +27,7 @@ Tiene búsqueda por código de barras y lógica tipo punto de venta.
 
 - LinkedIn: https://www.linkedin.com/in/ramiro-blanco-949456239/
 - Email: blancoramirotomas@gmail.com
+
+<!--
+
 -->
